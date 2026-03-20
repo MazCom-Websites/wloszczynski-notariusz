@@ -1,0 +1,36 @@
+{
+  "title": "Akty poswiadczenia dziedziczenia",
+  "slug": "akty-poswiadczenia-dziedziczenia",
+  "publishedAt": "2026-03-20T00:00:00.000Z",
+  "status": "published",
+  "name": "Akty poswiadczenia dziedziczenia",
+  "shortDescription": "Notarialne potwierdzenie praw do spadku — szybsza alternatywa dla postepowania sadowego o stwierdzenie nabycia spadku.",
+  "icon": "FileSearch",
+  "category": "Prawo spadkowe",
+  "processSteps": [
+    { "title": "Konsultacja", "description": "Ustalenie kręgu spadkobiercow, sprawdzenie czy nie ma przeszkod do sporzadzenia aktu." },
+    { "title": "Kompletowanie dokumentow", "description": "Akt zgonu spadkodawcy, akty stanu cywilnego spadkobiercow, testamenty (jesli sa)." },
+    { "title": "Protokol dziedziczenia", "description": "Sporzadzenie protokolu z udzialem wszystkich spadkobiercow (wymagana jednomyslnosc)." },
+    { "title": "Akt poswiadczenia", "description": "Sporzadzenie aktu poswiadczenia dziedziczenia i rejestracja w Rejestrze Spadkowym." }
+  ],
+  "pricingVariants": [
+    { "name": "Protokol dziedziczenia", "price": "100", "description": "Sporzadzenie protokolu" },
+    { "name": "Akt poswiadczenia dziedziczenia", "price": "50", "description": "Sporzadzenie aktu" },
+    { "name": "Protokol + akt (lacznie)", "price": "150", "description": "Kompletna usluga" }
+  ],
+  "relatedServices": ["testamenty", "akty-notarialne"],
+  "slices": [
+    { "slice_type": "service_hero", "primary": {} },
+    { "slice_type": "service_description", "primary": { "content": "Akt poswiadczenia dziedziczenia (APD) to notarialny dokument potwierdzajacy prawa do spadku. Ma taka sama moc prawna jak postanowienie sadu o stwierdzeniu nabycia spadku, ale jest znacznie szybszy w uzyskaniu.\n\nKiedy mozna sporzadzic APD:\n- Spadkodawca zmarl po 1 lipca 1984 r.\n- Wszyscy spadkobiercy sa znani i zgodni co do podzialuSpadku\n- Spadek nie jest sporny\n- Wszyscy spadkobiercy moga stawic sie u notariusza jednoczesnie\n\nProcedura obejmuje:\n1. **Protokol otwarcia testamentu** (jesli jest testament)\n2. **Protokol dziedziczenia** — zlozenie oswiadczen przez spadkobiercow\n3. **Akt poswiadczenia dziedziczenia** — zarejestrowany w Rejestrze Spadkowym\n\nAPD jest gotowy tego samego dnia. Postepowanie sadowe trwa zwykle kilka miesiecy." } },
+    { "slice_type": "service_process", "primary": {} },
+    { "slice_type": "service_pricing", "primary": {} },
+    { "slice_type": "service_related", "primary": {} },
+    { "slice_type": "cta_section", "primary": { "title": "Potrzebujesz poswiadczenia dziedziczenia?", "description": "Umow wizyte — pomozemy szybko uregulowac sprawy spadkowe.", "primary_button_text": "Umow wizyte", "primary_button_link": { "url": "/kontakt" } } }
+  ],
+  "metadata": {
+    "metaTitle": "Akty poswiadczenia dziedziczenia — Kancelaria Notarialna Wloszczynski",
+    "metaDescription": "Akty poswiadczenia dziedziczenia — szybka alternatywa dla sadu. Protokol dziedziczenia, rejestracja w Rejestrze Spadkowym. Kancelaria Notarialna Wloszczynski.",
+    "metaImage": "", "ogImage": "", "robots": "", "keywords": "", "canonicalUrl": ""
+  },
+  "parentPath": "/uslugi"
+}

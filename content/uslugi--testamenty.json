@@ -1,0 +1,36 @@
+{
+  "title": "Testamenty",
+  "slug": "testamenty",
+  "publishedAt": "2026-03-20T00:00:00.000Z",
+  "status": "published",
+  "name": "Testamenty",
+  "shortDescription": "Sporzadzanie testamentow notarialnych zapewniajacych bezpieczenstwo prawne i minimalizujacych ryzyko podwazenia woli spadkodawcy.",
+  "icon": "ScrollText",
+  "category": "Czynnosci notarialne",
+  "processSteps": [
+    { "title": "Konsultacja", "description": "Omowienie woli spadkodawcy, doradztwo w zakresie mozliwych rozrzniadzen testamentowych." },
+    { "title": "Przygotowanie projektu", "description": "Sporzadzenie projektu testamentu zgodnie z wolą testatora i przepisami prawa." },
+    { "title": "Weryfikacja", "description": "Przedstawienie projektu testatorowi, omowienie szczegotow i ewentualne korekty." },
+    { "title": "Podpisanie testamentu", "description": "Odczytanie tresci, potwierdzenie woli, zlozenie podpisow. Testament przechowywany w kancelarii." }
+  ],
+  "pricingVariants": [
+    { "name": "Testament zwykly", "price": "50", "description": "Sporzadzenie testamentu notarialnego" },
+    { "name": "Testament z zapisem windykacyjnym", "price": "150", "description": "Testament z rozrzadzeniem poszczegolnymi skladnikami majatku" },
+    { "name": "Odwolanie testamentu", "price": "30", "description": "Akt odwolania wczesniejszego testamentu" }
+  ],
+  "relatedServices": ["akty-poswiadczenia-dziedziczenia", "pelnomocnictwa"],
+  "slices": [
+    { "slice_type": "service_hero", "primary": {} },
+    { "slice_type": "service_description", "primary": { "content": "Testament notarialny to najbezpieczniejsza forma rozporzadzenia majatkiem na wypadek smierci. W odroznieniu od testamentu wlasnoreczznego, testament notarialny jest sporzadzany przez notariusza, co minimalizuje ryzyko jego podwazenia.\n\nW naszej kancelarii sporzadzamy:\n- Testamenty zwykle — powolanie spadkobiercow do calego spadku lub jego czesci\n- Testamenty z zapisami windykacyjnymi — rozporzadzenie konkretnymi przedmiotami\n- Testamenty z poleceniami — zobowiazanie spadkobiercow do okreslonych dzialan\n- Odwolania testamentow — calkowite lub czesciowe\n\nTestament notarialny rejestrowany jest w Notarialnym Rejestrze Testamentow (NORT), co zapewnia jego odnalezienie po smierci spadkodawcy. Notariusz przechowuje oryginal testamentu i wydaje wypisy uprawnionym osobom." } },
+    { "slice_type": "service_process", "primary": {} },
+    { "slice_type": "service_pricing", "primary": {} },
+    { "slice_type": "service_related", "primary": {} },
+    { "slice_type": "cta_section", "primary": { "title": "Chcesz zabezpieczyc przyszlosc bliskich?", "description": "Umow sie na spotkanie — pomozemy Ci sporzadzic testament zgodny z Twoja wola.", "primary_button_text": "Umow wizyte", "primary_button_link": { "url": "/kontakt" } } }
+  ],
+  "metadata": {
+    "metaTitle": "Testamenty notarialne — Kancelaria Notarialna Wloszczynski",
+    "metaDescription": "Sporzadzanie testamentow notarialnych: testamenty zwykle, z zapisem windykacyjnym, odwolanie testamentu. Rejestracja w NORT. Profesjonalne doradztwo.",
+    "metaImage": "", "ogImage": "", "robots": "", "keywords": "", "canonicalUrl": ""
+  },
+  "parentPath": "/uslugi"
+}

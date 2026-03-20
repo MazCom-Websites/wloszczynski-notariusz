@@ -1,0 +1,72 @@
+{
+  "title": "Dokumenty",
+  "status": "published",
+  "publishedAt": "2026-03-20T00:00:00.000Z",
+  "description": "Jakie dokumenty przygotowac do wizyty u notariusza",
+  "path": "/dokumenty",
+  "slices": [
+    {
+      "slice_type": "hero_centered",
+      "primary": {
+        "title": "Dokumenty do wizyty",
+        "description": "Ponizej znajdziesz listy dokumentow potrzebnych do najczesciej wykonywanych czynnosci notarialnych. Przygotowanie dokumentow z wyprzedzeniem pozwala na szybsza i sprawniejsza obsluge."
+      }
+    },
+    {
+      "slice_type": "treatment_faq",
+      "primary": {
+        "title": "Wymagane dokumenty wg typu czynnosci",
+        "tabs": [
+          {
+            "tab_label": "Sprzedaz nieruchomosci",
+            "faqs": [
+              { "question": "Dokumenty sprzedajacego", "answer": "- Dowod osobisty lub paszport\n- Numer ksiegi wieczystej\n- Podstawa nabycia (akt notarialny, postanowienie sadu, akt poswiadczenia dziedziczenia)\n- Zaswiadczenie o braku zaleglosci podatkowych\n- Zaswiadczenie ze spoldzielni/wspolnoty o braku zalegolosci" },
+              { "question": "Dokumenty kupujacego", "answer": "- Dowod osobisty lub paszport\n- Dane do aktu (adres zameldowania, stan cywilny)\n- W przypadku kredytu: umowa kredytowa, oswiadczenie banku" },
+              { "question": "Dokumenty dodatkowe", "answer": "- Wypis i wyrys z ewidencji gruntow (dla dzialek)\n- Zaswiadczenie o przeznaczeniu w MPZP lub warunkach zabudowy\n- Zaswiadczenie o braku zameldowanych osob\n- Swiadectwo charakterystyki energetycznej" }
+            ]
+          },
+          {
+            "tab_label": "Darowizna",
+            "faqs": [
+              { "question": "Dokumenty darczycy", "answer": "- Dowod osobisty\n- Numer KW nieruchomosci (jesli darowizna nieruchomosci)\n- Podstawa nabycia\n- Zaswiadczenie o wartosci (wycena lub oswiadczenie)" },
+              { "question": "Dokumenty obdarowanego", "answer": "- Dowod osobisty\n- Akt stanu cywilnego potwierdzajacy pokrewienstwo (dla zwolnienia podatkowego)" }
+            ]
+          },
+          {
+            "tab_label": "Testament",
+            "faqs": [
+              { "question": "Dokumenty wymagane", "answer": "- Dowod osobisty testatora\n- Dane osob powolanych do spadku (imiona, nazwiska, daty urodzenia, adresy)\n- Numery KW nieruchomosci (przy zapisach windykacyjnych)\n- Wczesniejsze testamenty (jesli byly sporzadzone)" }
+            ]
+          },
+          {
+            "tab_label": "Poswiadczenie dziedziczenia",
+            "faqs": [
+              { "question": "Dokumenty wymagane", "answer": "- Akt zgonu spadkodawcy\n- Akty stanu cywilnego spadkobiercow (urodzenia, malzenstwa)\n- Testament (jesli byl sporzadzony)\n- Numery KW nieruchomosci wchodzacych w sklad spadku\n- Dowody osobiste wszystkich spadkobiercow\n- Informacja o ewentualnych odrzuceniach spadku" }
+            ]
+          },
+          {
+            "tab_label": "Pelnomocnictwo",
+            "faqs": [
+              { "question": "Dokumenty wymagane", "answer": "- Dowod osobisty mocodawcy\n- Dane pelnomocnika (imie, nazwisko, PESEL, adres)\n- Opis czynnosci, do ktorej udzielane jest pelnomocnictwo\n- Numer KW (jesli pelnomocnictwo dotyczy nieruchomosci)" }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "slice_type": "glow_cta",
+      "primary": {
+        "title": "Nie jestes pewien, jakie dokumenty przygotowac?",
+        "description": "Zadzwon lub napisz — dokladnie wyjasnimy, co jest potrzebne w Twojej sprawie.",
+        "cta_text": "Skontaktuj sie",
+        "cta_link": { "url": "/kontakt" },
+        "glow_color": "#253d7f"
+      }
+    }
+  ],
+  "metadata": {
+    "metaTitle": "Dokumenty do wizyty u notariusza — Kancelaria Notarialna Wloszczynski",
+    "metaDescription": "Jakie dokumenty przygotowac do notariusza? Listy dokumentow do sprzedazy nieruchomosci, darowizny, testamentu, poswiadczenia dziedziczenia, pelnomocnictwa.",
+    "metaImage": "", "ogImage": "", "robots": "", "keywords": "", "canonicalUrl": ""
+  }
+}

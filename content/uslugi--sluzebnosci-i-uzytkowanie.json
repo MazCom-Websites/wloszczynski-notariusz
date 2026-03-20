@@ -1,0 +1,37 @@
+{
+  "title": "Sluzebnosci i uzytkowanie",
+  "slug": "sluzebnosci-i-uzytkowanie",
+  "publishedAt": "2026-03-20T00:00:00.000Z",
+  "status": "published",
+  "name": "Sluzebnosci i uzytkowanie",
+  "shortDescription": "Ustanawianie i znoszenie sluzebnosci gruntowych, osobistych, przesylu oraz prawa uzytkowania nieruchomosci.",
+  "icon": "Route",
+  "category": "Nieruchomosci",
+  "processSteps": [
+    { "title": "Konsultacja", "description": "Analiza stanu prawnego nieruchomosci i potrzeb klienta w zakresie sluzebnosci." },
+    { "title": "Przygotowanie dokumentow", "description": "Odpis KW, mapa z zaznaczeniem przebiegu sluzebnosci, zgody wspolwlascicieli." },
+    { "title": "Sporzadzenie aktu", "description": "Przygotowanie oswiadczenia o ustanowieniu sluzebnosci w formie aktu notarialnego." },
+    { "title": "Wpis do KW", "description": "Zlozenie wniosku o wpis sluzebnosci do ksiegi wieczystej." }
+  ],
+  "pricingVariants": [
+    { "name": "Ustanowienie sluzebnosci gruntowej", "price": "od 200", "description": "Np. sluzebnosc drogi koniecznej" },
+    { "name": "Sluzebnosc osobista (mieszkanie)", "price": "od 200", "description": "Prawo dozywotnego zamieszkiwania" },
+    { "name": "Sluzebnosc przesylu", "price": "od 200", "description": "Dla przedsiebiorstw przesylowych" },
+    { "name": "Prawo uzytkowania", "price": "od 200", "description": "Ustanowienie prawa uzytkowania nieruchomosci" }
+  ],
+  "relatedServices": ["umowy-sprzedazy-nieruchomosci", "akty-notarialne", "darowizny"],
+  "slices": [
+    { "slice_type": "service_hero", "primary": {} },
+    { "slice_type": "service_description", "primary": { "content": "Sluzebnosc to ograniczone prawo rzeczowe, ktore obcioaza jedna nieruchomosc (sluzebna) na rzecz drugiej (wladnaca) lub okreslonej osoby. Ustanowienie sluzebnosci na nieruchomosci wymaga formy aktu notarialnego.\n\nRodzaje sluzebnosci:\n- **Sluzebnosc gruntowa** — np. prawo przejazdu, przechodu, czerpania wody\n- **Sluzebnosc osobista** — np. sluzebnosc mieszkania (prawo dozywotnego zamieszkiwania)\n- **Sluzebnosc przesylu** — prawo do korzystania z nieruchomosci przez przedsiebiorstwo przesylowe (energia, gaz, woda)\n\nPrawo uzytkowania:\n- Prawo do korzystania z cudzej nieruchomosci i pobierania z niej pozytkow\n- Moze byc odplatne lub nieodplatne\n- Wpis do ksiegi wieczystej zapewnia skutecznosc wobec osob trzecich\n\nSluzebnosci sa szczegolnie wazne przy:\n- Zakupie nieruchomosci bez dostepu do drogi publicznej\n- Zabezpieczeniu prawa do zamieszkiwania (np. przy darowiznie domu dzieciom)\n- Regulowaniu stosunkow z przedsiebiorstwami przesylowymi" } },
+    { "slice_type": "service_process", "primary": {} },
+    { "slice_type": "service_pricing", "primary": {} },
+    { "slice_type": "service_related", "primary": {} },
+    { "slice_type": "cta_section", "primary": { "title": "Potrzebujesz ustanowic sluzebnosc?", "description": "Skontaktuj sie — doradzamy i przygotujemy odpowiedni akt notarialny.", "primary_button_text": "Umow wizyte", "primary_button_link": { "url": "/kontakt" } } }
+  ],
+  "metadata": {
+    "metaTitle": "Sluzebnosci i uzytkowanie — Kancelaria Notarialna Wloszczynski",
+    "metaDescription": "Ustanawianie sluzebnosci gruntowych, osobistych, przesylu, prawa uzytkowania nieruchomosci. Kancelaria Notarialna Wloszczynski.",
+    "metaImage": "", "ogImage": "", "robots": "", "keywords": "", "canonicalUrl": ""
+  },
+  "parentPath": "/uslugi"
+}

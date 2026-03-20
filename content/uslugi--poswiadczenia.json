@@ -1,0 +1,37 @@
+{
+  "title": "Poswiadczenia notarialne",
+  "slug": "poswiadczenia",
+  "publishedAt": "2026-03-20T00:00:00.000Z",
+  "status": "published",
+  "name": "Poswiadczenia",
+  "shortDescription": "Poswiadczanie wlasnoreczznosci podpisu, daty okazania dokumentu, zgodnosci odpisu lub kopii z oryginalem.",
+  "icon": "CheckCircle",
+  "category": "Czynnosci notarialne",
+  "processSteps": [
+    { "title": "Wizyta w kancelarii", "description": "Stawiennictwo osobiste z dokumentem do poswiadczenia i dowodem tozsamosci." },
+    { "title": "Weryfikacja tozsamosci", "description": "Sprawdzenie tozsamosci na podstawie dokumentu ze zdjeciem." },
+    { "title": "Poswiadczenie", "description": "Zlozenie podpisu w obecnosci notariusza lub potwierdzenie wczesniej zlozonego podpisu." },
+    { "title": "Wydanie dokumentu", "description": "Dokument z klauzula poswiadczeniowa gotowy do odbioru od reki." }
+  ],
+  "pricingVariants": [
+    { "name": "Poswiadczenie podpisu", "price": "20", "description": "Za kazdy podpis" },
+    { "name": "Poswiadczenie daty", "price": "6", "description": "Za kazda date" },
+    { "name": "Poswiadczenie zgodnosci odpisu", "price": "6", "description": "Za kazda strone" },
+    { "name": "Poswiadczenie pozostawania przy zyciu", "price": "5", "description": "Jednorazowa oplata" }
+  ],
+  "relatedServices": ["akty-notarialne", "pelnomocnictwa"],
+  "slices": [
+    { "slice_type": "service_hero", "primary": {} },
+    { "slice_type": "service_description", "primary": { "content": "Poswiadczenie notarialne to czynnosc, w ktorej notariusz potwierdza okreslony fakt prawny. Poswiadczenia notarialne sa czesto wymagane w obrocie prawnym i gospodarczym.\n\nW naszej kancelarii wykonujemy:\n- Poswiadczenie wlasnoreczznosci podpisu — skladanego lub uznanego za wlasny\n- Poswiadczenie daty okazania dokumentu (data pewna)\n- Poswiadczenie zgodnosci odpisu, wyciagu lub kopii z okazanym dokumentem\n- Poswiadczenie pozostawania przy zyciu lub w okreslonym miejscu\n\nPoswiadczenie podpisu jest najczesciej wykonywana czynnoscia notarialna. Wymagane jest np. przy zbywaniu udzialow w spolce z o.o., skladaniu dokumentow do KRS czy przy umowach wymagajacych formy pisemnej z podpisem notarialnie poswiadczonym." } },
+    { "slice_type": "service_process", "primary": {} },
+    { "slice_type": "service_pricing", "primary": {} },
+    { "slice_type": "service_related", "primary": {} },
+    { "slice_type": "cta_section", "primary": { "title": "Potrzebujesz poswiadczenia?", "description": "Zapraszamy do kancelarii — poswiadczenie wykonamy od reki.", "primary_button_text": "Umow wizyte", "primary_button_link": { "url": "/kontakt" } } }
+  ],
+  "metadata": {
+    "metaTitle": "Poswiadczenia notarialne — Kancelaria Notarialna Wloszczynski",
+    "metaDescription": "Poswiadczanie podpisow, dat, zgodnosci dokumentow. Szybka realizacja, taksa zgodna z rozporzadzeniem. Kancelaria Notarialna Wloszczynski.",
+    "metaImage": "", "ogImage": "", "robots": "", "keywords": "", "canonicalUrl": ""
+  },
+  "parentPath": "/uslugi"
+}

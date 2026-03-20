@@ -1,0 +1,36 @@
+{
+  "title": "Intercyzy",
+  "slug": "intercyzy",
+  "publishedAt": "2026-03-20T00:00:00.000Z",
+  "status": "published",
+  "name": "Intercyzy",
+  "shortDescription": "Umowy majatkowe malzenskie — rozdzielnosc majatkowa, rozszerzenie lub ograniczenie wspolnosci majatkowej.",
+  "icon": "HeartHandshake",
+  "category": "Prawo rodzinne",
+  "processSteps": [
+    { "title": "Konsultacja", "description": "Omowienie sytuacji majatkowej malzonkow i celow intercyzy." },
+    { "title": "Doradztwo", "description": "Przedstawienie mozliwych rozwiazan — rozdzielnosc, rozszerzenie lub ograniczenie wspolnosci." },
+    { "title": "Projekt umowy", "description": "Sporzadzenie projektu umowy majatkowej malzenskiej." },
+    { "title": "Podpisanie", "description": "Osobiste stawiennictwo obu malzonkow, odczytanie i podpisanie aktu." }
+  ],
+  "pricingVariants": [
+    { "name": "Intercyza przedmalzenska", "price": "400", "description": "Umowa zawarta przed slubem" },
+    { "name": "Intercyza w trakcie malzenstwa", "price": "400", "description": "Zmiana ustroju majatkowego" },
+    { "name": "Powrot do wspolnosci", "price": "400", "description": "Rozwiazanie umowy o rozdzielnosci" }
+  ],
+  "relatedServices": ["akty-notarialne", "darowizny"],
+  "slices": [
+    { "slice_type": "service_hero", "primary": {} },
+    { "slice_type": "service_description", "primary": { "content": "Intercyza (umowa majatkowa malzenska) reguluje stosunki majatkowe miedzy malzonkami w sposob odmienny niz wynika to z ustawy. Wymaga formy aktu notarialnego.\n\nRodzaje umow majatkowych:\n- **Rozdzielnosc majatkowa** — kazdy z malzonkow zachowuje swoj majatek i samodzielnie nim zarzadza\n- **Rozdzielnosc z wyrownaniem dorobkow** — po ustaniu rozdzielnosci mozliwe wyrownanie przyrostow majatku\n- **Rozszerzenie wspolnosci** — wlaczenie do majatku wspolnego skladnikow, ktore z mocy ustawy nalezalyby do majatkow osobistych\n- **Ograniczenie wspolnosci** — wylaczenie okreslonych skladnikow z majatku wspolnego\n\nIntercyza jest skuteczna wobec osob trzecich (np. wierzycieli) tylko wtedy, gdy znaly jej tresc i date zawarcia." } },
+    { "slice_type": "service_process", "primary": {} },
+    { "slice_type": "service_pricing", "primary": {} },
+    { "slice_type": "service_related", "primary": {} },
+    { "slice_type": "cta_section", "primary": { "title": "Rozwazasz intercyze?", "description": "Porozmawiajmy o Twoich potrzebach — doradzamy najlepsze rozwiazanie.", "primary_button_text": "Umow wizyte", "primary_button_link": { "url": "/kontakt" } } }
+  ],
+  "metadata": {
+    "metaTitle": "Intercyzy — Umowy majatkowe malzenskie — Kancelaria Notarialna Wloszczynski",
+    "metaDescription": "Intercyzy, rozdzielnosc majatkowa, umowy majatkowe malzenskie. Profesjonalne doradztwo i obsluga. Kancelaria Notarialna Wloszczynski.",
+    "metaImage": "", "ogImage": "", "robots": "", "keywords": "", "canonicalUrl": ""
+  },
+  "parentPath": "/uslugi"
+}

@@ -1,0 +1,47 @@
+{
+  "title": "Uslugi notarialne",
+  "status": "published",
+  "publishedAt": "2026-03-20T00:00:00.000Z",
+  "description": "Pelna oferta uslug notarialnych kancelarii",
+  "path": "/uslugi",
+  "contextType": "services",
+  "contextKey": "service",
+  "slices": [
+    {
+      "slice_type": "hero_centered",
+      "primary": {
+        "title": "Uslugi notarialne",
+        "description": "Swiadczymy kompleksowe uslugi notarialne w pelnym zakresie czynnosci przewidzianych ustawa Prawo o notariacie. Kazda sprawa traktowana jest indywidualnie z najwyzsza starannoscia."
+      }
+    },
+    {
+      "slice_type": "service_showcase_tabs",
+      "primary": {
+        "title": "Nasze specjalizacje",
+        "services": [
+          { "name": "Akty notarialne", "description": "Sporzadzanie aktow notarialnych obejmujacych umowy sprzedazy, zamiany, darowizny oraz inne czynnosci prawne wymagajace formy aktu notarialnego.", "icon": "FileText" },
+          { "name": "Poswiadczenia", "description": "Poswiadczanie wlasnoreczznosci podpisu, daty okazania dokumentu, zgodnosci odpisu lub kopii z oryginalem dokumentu.", "icon": "CheckCircle" },
+          { "name": "Testamenty", "description": "Sporzadzanie testamentow notarialnych, ktore zapewniaja bezpieczenstwo prawne i ograniczaja ryzyko podwazenia woli spadkodawcy.", "icon": "ScrollText" },
+          { "name": "Pelnomocnictwa", "description": "Udzielanie pelnomocnictw w formie aktu notarialnego — ogolnych, szczegolnych, do poszczegolnych czynnosci prawnych.", "icon": "UserCheck" },
+          { "name": "Umowy nieruchomosci", "description": "Profesjonalna obsluga transakcji nieruchomosciowych — sprzedaz, kupno, zamiana mieszkan, domow i dzialek.", "icon": "Building2" },
+          { "name": "Darowizny", "description": "Umowy darowizny nieruchomosci, praw majatkowych, udzialow w spolkach, srodkow pienieznych.", "icon": "Gift" }
+        ]
+      }
+    },
+    {
+      "slice_type": "glow_cta",
+      "primary": {
+        "title": "Nie wiesz, jakiej uslugi potrzebujesz?",
+        "description": "Zadzwon lub napisz — bezplatnie doradzamy w wyborze wlasciwej czynnosci notarialnej.",
+        "cta_text": "Bezplatna konsultacja",
+        "cta_link": { "url": "/kontakt" },
+        "glow_color": "#253d7f"
+      }
+    }
+  ],
+  "metadata": {
+    "metaTitle": "Uslugi notarialne — Kancelaria Notarialna Wloszczynski",
+    "metaDescription": "Pelna oferta uslug notarialnych: akty notarialne, poswiadczenia, testamenty, pelnomocnictwa, umowy sprzedazy nieruchomosci, darowizny, intercyzy. Profesjonalna obsluga.",
+    "metaImage": "", "ogImage": "", "robots": "", "keywords": "", "canonicalUrl": ""
+  }
+}

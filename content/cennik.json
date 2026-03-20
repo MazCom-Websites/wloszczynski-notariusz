@@ -1,0 +1,70 @@
+{
+  "title": "Cennik",
+  "status": "published",
+  "publishedAt": "2026-03-20T00:00:00.000Z",
+  "description": "Cennik uslug notarialnych",
+  "path": "/cennik",
+  "slices": [
+    {
+      "slice_type": "hero_centered",
+      "primary": {
+        "title": "Cennik uslug notarialnych",
+        "description": "Oplaty notarialne sa regulowane Rozporzadzeniem Ministra Sprawiedliwosci w sprawie maksymalnych stawek taksy notarialnej. Ponizej przedstawiamy orientacyjne koszty najczestszych czynnosci."
+      }
+    },
+    {
+      "slice_type": "pricing_table",
+      "primary": {
+        "title": "Taksa notarialna — akty notarialne",
+        "description": "Maksymalne stawki taksy notarialnej zalezne od wartosci przedmiotu czynnosci"
+      },
+      "items": [
+        { "package_name": "Wartosc do 3 000 zl", "package_price": "100 zl", "features": "Taksa maksymalna", "highlighted": false },
+        { "package_name": "Wartosc do 10 000 zl", "package_price": "100 zl + 3% nadwyzki ponad 3 000 zl", "features": "Taksa maksymalna", "highlighted": false },
+        { "package_name": "Wartosc do 30 000 zl", "package_price": "310 zl + 2% nadwyzki ponad 10 000 zl", "features": "Taksa maksymalna", "highlighted": false },
+        { "package_name": "Wartosc do 60 000 zl", "package_price": "710 zl + 1% nadwyzki ponad 30 000 zl", "features": "Taksa maksymalna", "highlighted": true },
+        { "package_name": "Wartosc do 1 000 000 zl", "package_price": "1 010 zl + 0.4% nadwyzki ponad 60 000 zl", "features": "Taksa maksymalna", "highlighted": false },
+        { "package_name": "Wartosc do 2 000 000 zl", "package_price": "4 770 zl + 0.2% nadwyzki ponad 1 000 000 zl", "features": "Taksa maksymalna", "highlighted": false }
+      ]
+    },
+    {
+      "slice_type": "pricing_table",
+      "primary": {
+        "title": "Pozostale czynnosci notarialne",
+        "description": "Stawki za typowe czynnosci notarialne"
+      },
+      "items": [
+        { "package_name": "Testament", "package_price": "50 zl", "features": "Testament zwykly", "highlighted": false },
+        { "package_name": "Testament z zapisem windykacyjnym", "package_price": "150 zl", "features": "Z rozrzadzeniem skladnikami", "highlighted": false },
+        { "package_name": "Pelnomocnictwo", "package_price": "30 - 100 zl", "features": "Zalezne od zakresu", "highlighted": false },
+        { "package_name": "Poswiadczenie podpisu", "package_price": "20 zl", "features": "Za kazdy podpis", "highlighted": false },
+        { "package_name": "Poswiadczenie kopii", "package_price": "6 zl/strona", "features": "Za kazda strone", "highlighted": false },
+        { "package_name": "Akt poswiadczenia dziedziczenia", "package_price": "50 - 150 zl", "features": "Protokol + akt", "highlighted": true },
+        { "package_name": "Intercyza", "package_price": "400 zl", "features": "Umowa majatkowa malzenska", "highlighted": false },
+        { "package_name": "Depozyt notarialny", "package_price": "od 50 zl", "description": "Zalezne od wartosci", "highlighted": false }
+      ]
+    },
+    {
+      "slice_type": "text_content",
+      "primary": {
+        "title": "Dodatkowe oplaty",
+        "content": "Oprócz taksy notarialnej, przy niektorych czynnosciach naliczane sa dodatkowe oplaty:\n\n- **Podatek VAT** — 23% doliczany do taksy notarialnej\n- **Podatek od czynnosci cywilnoprawnych (PCC)** — 2% wartosci nieruchomosci (przy sprzedazy)\n- **Oplata sadowa** — 200 zl za wpis do ksiegi wieczystej\n- **Taksa za wypisy** — 6 zl + VAT za kazda strone wypisu\n\nDokładne koszty zawsze ustalamy indywidualnie przed przystąpieniem do czynności. Zapraszamy do kontaktu w celu uzyskania wyceny."
+      }
+    },
+    {
+      "slice_type": "glow_cta",
+      "primary": {
+        "title": "Potrzebujesz indywidualnej wyceny?",
+        "description": "Skontaktuj sie z nami — przygotujemy szczegolowy kosztorys czynnosci notarialnej.",
+        "cta_text": "Zapytaj o cene",
+        "cta_link": { "url": "/kontakt" },
+        "glow_color": "#253d7f"
+      }
+    }
+  ],
+  "metadata": {
+    "metaTitle": "Cennik uslug notarialnych — Kancelaria Notarialna Wloszczynski",
+    "metaDescription": "Cennik uslug notarialnych: taksa notarialna, oplaty za akty notarialne, poswiadczenia, testamenty, pelnomocnictwa. Przejrzyste ceny.",
+    "metaImage": "", "ogImage": "", "robots": "", "keywords": "", "canonicalUrl": ""
+  }
+}

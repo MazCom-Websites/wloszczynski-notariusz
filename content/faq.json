@@ -1,0 +1,72 @@
+{
+  "title": "FAQ",
+  "status": "published",
+  "publishedAt": "2026-03-20T00:00:00.000Z",
+  "description": "Czesto zadawane pytania",
+  "path": "/faq",
+  "slices": [
+    {
+      "slice_type": "hero_centered",
+      "primary": {
+        "title": "Czesto zadawane pytania",
+        "description": "Odpowiedzi na najczesciej zadawane pytania dotyczace czynnosci notarialnych."
+      }
+    },
+    {
+      "slice_type": "treatment_faq",
+      "primary": {
+        "title": "FAQ",
+        "tabs": [
+          {
+            "tab_label": "Ogolne",
+            "faqs": [
+              { "question": "Czym zajmuje sie notariusz?", "answer": "Notariusz to funkcjonariusz publiczny powolany do dokonywania czynnosci notarialnych. Sporzadza akty notarialne, poswiadczenia, testamenty, pelnomocnictwa, protokoly i inne dokumenty urzedowe." },
+              { "question": "Czy moge wybrac dowolnego notariusza?", "answer": "Tak, klient ma pelna swobode wyboru notariusza na terenie calego kraju. Nie obowiazuje rejonizacja." },
+              { "question": "Czy notariusz moze przyjechac do klienta?", "answer": "Tak, w uzasadnionych przypadkach (choroba, niepelnosprawnosc) notariusz moze dokonac czynnosci poza kancelaria, np. w domu klienta lub w szpitalu." },
+              { "question": "Ile kosztuja uslugi notarialne?", "answer": "Oplaty reguluje Rozporzadzenie Ministra Sprawiedliwosci w sprawie maksymalnych stawek taksy notarialnej. Dokladne koszty zaleza od rodzaju i wartosci czynnosci. Zapraszamy na strone Cennik." }
+            ]
+          },
+          {
+            "tab_label": "Nieruchomosci",
+            "faqs": [
+              { "question": "Jakie dokumenty sa potrzebne do sprzedazy mieszkania?", "answer": "Podstawowe dokumenty to: dowody osobiste stron, numer ksiegi wieczystej, podstawa nabycia (akt notarialny, postanowienie sadu), zaswiadczenie ze spoldzielni/wspolnoty o braku zaleglosci, zaswiadczenie o braku zameldowanych osob." },
+              { "question": "Kto placi za akt notarialny — kupujacy czy sprzedajacy?", "answer": "Standardowo koszty aktu notarialnego ponosi kupujacy, chyba ze strony umowia sie inaczej. Podatek PCC (2%) rowniez obciaza kupujacego." },
+              { "question": "Jak dlugo trwa przygotowanie aktu sprzedazy?", "answer": "Przy kompletnych dokumentach akt moze byc przygotowany w ciagu 2-3 dni roboczych. Sam podpis trwa 1-2 godziny." },
+              { "question": "Czy potrzebne jest swiadectwo energetyczne?", "answer": "Tak, od 28 kwietnia 2023 r. sprzedajacy ma obowiazek przekazac nabywcy swiadectwo charakterystyki energetycznej budynku lub lokalu." }
+            ]
+          },
+          {
+            "tab_label": "Spadki",
+            "faqs": [
+              { "question": "Czym rozni sie akt poswiadczenia dziedziczenia od stwierdzenia nabycia spadku?", "answer": "Akt poswiadczenia dziedziczenia sporzadzany jest przez notariusza — jest szybszy (gotowy tego samego dnia) i tanszy. Stwierdzenie nabycia spadku to postepowanie sadowe, ktore trwa kilka miesiecy. Oba dokumenty maja taka sama moc prawna." },
+              { "question": "Czy wszyscy spadkobiercy musza sie stawic?", "answer": "Tak, przy sporządzaniu aktu poswiadczenia dziedziczenia wymagane jest jednoczesne stawiennictwo wszystkich spadkobiercow ustawowych i testamentowych." },
+              { "question": "Ile czasu mam na zgloszenie spadku do urzedu skarbowego?", "answer": "Spadkobiercy z grupy 0 (najblizsa rodzina) maja 6 miesiecy na zgloszenie nabycia spadku na formularzu SD-Z2 w celu skorzystania ze zwolnienia z podatku." }
+            ]
+          },
+          {
+            "tab_label": "Spolki",
+            "faqs": [
+              { "question": "Czy umowa spolki z o.o. musi byc w formie aktu notarialnego?", "answer": "Umowa spolki z o.o. moze byc zawarta w formie aktu notarialnego lub przez system S24 (online). Forma notarialna pozwala na wieksa elastycznosc postanowien umownych." },
+              { "question": "Ile kosztuje zalozenie spolki u notariusza?", "answer": "Koszt zalozenia spolki z o.o. u notariusza to orientacyjnie 2000-3000 zl netto (taksa notarialna + wypisy + PCC). Dokladna kwota zalezy od wysokosci kapitalu zakladowego." }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "slice_type": "glow_cta",
+      "primary": {
+        "title": "Nie znalazles odpowiedzi?",
+        "description": "Skontaktuj sie z nami — chetnie odpowiemy na kazde pytanie.",
+        "cta_text": "Zapytaj nas",
+        "cta_link": { "url": "/kontakt" },
+        "glow_color": "#253d7f"
+      }
+    }
+  ],
+  "metadata": {
+    "metaTitle": "FAQ — Czesto zadawane pytania — Kancelaria Notarialna Wloszczynski",
+    "metaDescription": "Odpowiedzi na najczesciej zadawane pytania o notariusza, akty notarialne, sprzedaz nieruchomosci, spadki, spolki. Kancelaria Notarialna Wloszczynski.",
+    "metaImage": "", "ogImage": "", "robots": "", "keywords": "", "canonicalUrl": ""
+  }
+}

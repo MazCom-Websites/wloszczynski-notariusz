@@ -1,0 +1,38 @@
+{
+  "title": "Umowy spolek",
+  "slug": "umowy-spolek",
+  "publishedAt": "2026-03-20T00:00:00.000Z",
+  "status": "published",
+  "name": "Umowy spolek",
+  "shortDescription": "Sporzadzanie i zmiana umow spolek — spolka z o.o., spolka komandytowa, spolka jawna, spolka akcyjna.",
+  "icon": "Briefcase",
+  "category": "Prawo spolkowe",
+  "processSteps": [
+    { "title": "Konsultacja", "description": "Omowienie rodzaju spolki, struktury wlasnosciowej i celow biznesowych." },
+    { "title": "Projekt umowy", "description": "Sporzadzenie projektu umowy spolki lub aktu zalozycielskiego." },
+    { "title": "Weryfikacja", "description": "Przedstawienie projektu wspolnikom, wprowadzenie uwag." },
+    { "title": "Podpisanie aktu", "description": "Stawiennictwo wspolnikow, odczytanie i podpisanie umowy spolki." },
+    { "title": "Rejestracja", "description": "Zlozenie wniosku o wpis do KRS (opcjonalnie — pelna obsluga rejestracyjna)." }
+  ],
+  "pricingVariants": [
+    { "name": "Umowa spolki z o.o.", "price": "3000", "description": "Akt zalozycielski + wpis do KRS" },
+    { "name": "Umowa spolki komandytowej", "price": "2500", "description": "Akt zalozycielski spolki komandytowej" },
+    { "name": "Zmiana umowy spolki", "price": "1000", "description": "Protokol ze zmiana umowy" },
+    { "name": "Zbycie udzialow", "price": "od 310", "description": "Umowa zbycia udzialow w spolce z o.o." }
+  ],
+  "relatedServices": ["akty-notarialne", "pelnomocnictwa"],
+  "slices": [
+    { "slice_type": "service_hero", "primary": {} },
+    { "slice_type": "service_description", "primary": { "content": "Wiele czynnosci zwiazanych z funkcjonowaniem spolek wymaga formy aktu notarialnego. Nasza kancelaria zapewnia kompleksowa obsluge spolkowa.\n\nObslugujemy:\n- **Zakladanie spolek** — sp. z o.o., sp. komandytowa, sp. jawna, prosta spolka akcyjna, S.A.\n- **Zmiany umow spolek** — zmiana siedziby, przedmiotu dzialalnosci, kapitalu zakladowego\n- **Zbycie udzialow** — umowy sprzedazy, darowizny, zamiany udzialow\n- **Protokoly zgromadzen** — protokoly zgromadzen wspolnikow, walnych zgromadzen\n- **Przeksztalcenia i polaczenia** — akty przeksztalcenia, plany polaczenia\n- **Likwidacja spolek** — uchwaly o rozwiazaniu spolki\n\nForma aktu notarialnego jest wymagana m.in. dla umowy spolki komandytowej, umowy spolki z o.o. (chyba ze rejestracja przez S24) oraz umowy spolki akcyjnej." } },
+    { "slice_type": "service_process", "primary": {} },
+    { "slice_type": "service_pricing", "primary": {} },
+    { "slice_type": "service_related", "primary": {} },
+    { "slice_type": "cta_section", "primary": { "title": "Zakladasz lub zmieniasz spolke?", "description": "Skontaktuj sie — pomozemy w przygotowaniu umowy i rejestracji.", "primary_button_text": "Umow wizyte", "primary_button_link": { "url": "/kontakt" } } }
+  ],
+  "metadata": {
+    "metaTitle": "Umowy spolek — Kancelaria Notarialna Wloszczynski",
+    "metaDescription": "Zakladanie spolek, zmiany umow, zbycie udzialow, protokoly zgromadzen. Kompleksowa obsluga prawna spolek. Kancelaria Notarialna Wloszczynski.",
+    "metaImage": "", "ogImage": "", "robots": "", "keywords": "", "canonicalUrl": ""
+  },
+  "parentPath": "/uslugi"
+}

@@ -1,7 +1,86 @@
 {
-  "title": "Wloszczynski Notariusz",
+  "title": "Strona glowna",
   "status": "published",
-  "publishedAt": "2026-03-20T11:24:35.943Z",
+  "publishedAt": "2026-03-20T00:00:00.000Z",
+  "description": "Kancelaria Notarialna Wloszczynski",
   "path": "/",
-  "slices": []
+  "slices": [
+    {
+      "slice_type": "gradient_mesh_hero",
+      "primary": {
+        "title": "Kancelaria Notarialna Wloszczynski",
+        "subtitle": "Profesjonalna obsluga notarialna w pelnym zakresie czynnosci. Ponad 20 lat doswiadczenia, tysiace sporzadzonych aktow notarialnych. Zaufanie, dyskrecja, rzetelnosc.",
+        "cta_text": "Umow wizyte",
+        "cta_link": { "url": "/kontakt" },
+        "gradient_color_1": "#1a2744",
+        "gradient_color_2": "#253d7f"
+      }
+    },
+    {
+      "slice_type": "animated_counter_bar",
+      "primary": {
+        "background": "dark",
+        "counters": [
+          { "value": 20, "suffix": "+", "label": "Lat doswiadczenia" },
+          { "value": 5000, "suffix": "+", "label": "Aktow notarialnych" },
+          { "value": 12, "suffix": "", "label": "Specjalizacji" },
+          { "value": 100, "suffix": "%", "label": "Satysfakcji klientow" }
+        ]
+      }
+    },
+    {
+      "slice_type": "glassmorphism_cards",
+      "primary": {
+        "title": "Dlaczego klienci nam ufaja?",
+        "description": "Laczymy wieloletnie doswiadczenie z indywidualnym podejsciem do kazdego klienta",
+        "cards": [
+          { "title": "Pelna obsluga notarialna", "description": "Oferujemy kompleksowa obsluge w zakresie wszystkich czynnosci notarialnych — od aktow notarialnych po poswiadczenia i testamenty.", "icon": "Scale" },
+          { "title": "Doswiadczenie i rzetelnosc", "description": "Ponad 20 lat praktyki notarialnej. Kazda czynnosc wykonujemy z najwyzsza starannoscia i zgodnie z obowiazujacym prawem.", "icon": "Shield" },
+          { "title": "Dyskrecja i poufnosc", "description": "Gwarantujemy pelna poufnosc wszystkich powierzonych nam spraw. Tajemnica notarialna jest dla nas priorytetem.", "icon": "Lock" },
+          { "title": "Dostepnosc i elastycznosc", "description": "Dostosowujemy terminy do potrzeb klientow. Mozliwosc umowienia wizyty rowniez poza standardowymi godzinami pracy.", "icon": "Clock" }
+        ]
+      }
+    },
+    {
+      "slice_type": "services_grid",
+      "primary": {
+        "title": "Nasze specjalizacje",
+        "description": "Swiadczymy uslugi notarialne w pelnym zakresie czynnosci przewidzianych prawem",
+        "services": [
+          { "name": "Akty notarialne", "description": "Sporzadzanie aktow notarialnych — umowy sprzedazy, darowizny, zamiany i inne.", "icon": "FileText", "link": { "url": "/uslugi/akty-notarialne" } },
+          { "name": "Poswiadczenia", "description": "Poswiadczanie podpisow, dat, zgodnosci odpisow i kopii z oryginalem.", "icon": "CheckCircle", "link": { "url": "/uslugi/poswiadczenia" } },
+          { "name": "Testamenty", "description": "Sporzadzanie testamentow notarialnych, zmiana i odwolanie testamentu.", "icon": "ScrollText", "link": { "url": "/uslugi/testamenty" } },
+          { "name": "Pelnomocnictwa", "description": "Udzielanie i odwolywanie pelnomocnictw w formie aktu notarialnego.", "icon": "UserCheck", "link": { "url": "/uslugi/pelnomocnictwa" } },
+          { "name": "Umowy nieruchomosci", "description": "Umowy sprzedazy, kupna, zamiany nieruchomosci — mieszkan, domow, dzialek.", "icon": "Building2", "link": { "url": "/uslugi/umowy-sprzedazy-nieruchomosci" } },
+          { "name": "Darowizny", "description": "Umowy darowizny nieruchomosci, pieniedzy, udzialow w spolkach.", "icon": "Gift", "link": { "url": "/uslugi/darowizny" } }
+        ]
+      }
+    },
+    {
+      "slice_type": "testimonial_wall",
+      "primary": {
+        "title": "Opinie naszych klientow",
+        "testimonials": [
+          { "quote": "Profesjonalna obsluga, wszystko wyjasnione rzetelnie i zrozumiale. Polecam kazdemu, kto szuka dobrego notariusza.", "author": "Anna Kowalska", "role": "Klientka" },
+          { "quote": "Szybka i sprawna realizacja aktu notarialnego. Mily kontakt i pelna dyskrecja. Wrocilam po kolejne uslugi.", "author": "Marek Nowak", "role": "Klient" },
+          { "quote": "Pomoc przy sprzedazy mieszkania byla nieoceniona. Wszystkie formalnosci zalatwione sprawnie i bezproblemowo.", "author": "Katarzyna Wiszniewska", "role": "Klientka" }
+        ]
+      }
+    },
+    {
+      "slice_type": "glow_cta",
+      "primary": {
+        "title": "Potrzebujesz notariusza?",
+        "description": "Skontaktuj sie z nami — chetnie odpowiemy na pytania i umowimy wizyte w dogodnym terminie.",
+        "cta_text": "Skontaktuj sie",
+        "cta_link": { "url": "/kontakt" },
+        "glow_color": "#253d7f"
+      }
+    }
+  ],
+  "metadata": {
+    "metaTitle": "Kancelaria Notarialna Wloszczynski — Profesjonalne uslugi notarialne",
+    "metaDescription": "Kancelaria Notarialna Wloszczynski. Ponad 20 lat doswiadczenia. Akty notarialne, poswiadczenia, testamenty, pelnomocnictwa, umowy nieruchomosci. Umow wizyte.",
+    "metaImage": "", "ogImage": "", "robots": "", "keywords": "notariusz, kancelaria notarialna, akt notarialny, poswiadczenie, testament, pelnomocnictwo", "canonicalUrl": ""
+  }
 }

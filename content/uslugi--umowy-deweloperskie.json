@@ -1,0 +1,37 @@
+{
+  "title": "Umowy deweloperskie",
+  "slug": "umowy-deweloperskie",
+  "publishedAt": "2026-03-20T00:00:00.000Z",
+  "status": "published",
+  "name": "Umowy deweloperskie",
+  "shortDescription": "Obsluga umow deweloperskich, umow rezerwacyjnych i przeniesienia wlasnosci lokali od deweloperow.",
+  "icon": "HardHat",
+  "category": "Nieruchomosci",
+  "processSteps": [
+    { "title": "Analiza umowy", "description": "Weryfikacja projektu umowy deweloperskiej pod katem zgodnosci z ustawa deweloperska." },
+    { "title": "Sprawdzenie dewelopera", "description": "Weryfikacja prospektu informacyjnego, KW gruntu, pozwolenia na budowe." },
+    { "title": "Sporzadzenie aktu", "description": "Przygotowanie umowy deweloperskiej w formie aktu notarialnego." },
+    { "title": "Wpis roszczenia", "description": "Zlozenie wniosku o wpis roszczenia nabywcy do ksiegi wieczystej gruntu." },
+    { "title": "Przeniesienie wlasnosci", "description": "Po zakonczeniu budowy — akt przeniesienia wlasnosci lokalu." }
+  ],
+  "pricingVariants": [
+    { "name": "Umowa deweloperska", "price": "od 1500", "description": "Zalezna od wartosci lokalu" },
+    { "name": "Umowa przeniesienia wlasnosci", "price": "od 1000", "description": "Finalna umowa po zakonczeniu budowy" },
+    { "name": "Umowa rezerwacyjna", "price": "od 500", "description": "Wstepna rezerwacja lokalu" }
+  ],
+  "relatedServices": ["umowy-sprzedazy-nieruchomosci", "akty-notarialne", "sluzebnosci-i-uzytkowanie"],
+  "slices": [
+    { "slice_type": "service_hero", "primary": {} },
+    { "slice_type": "service_description", "primary": { "content": "Umowa deweloperska reguluje prawa i obowiazki nabywcy lokalu oraz dewelopera. Zgodnie z ustawa deweloperska z 2021 r., wymaga formy aktu notarialnego.\n\nW kancelarii obslugujemy:\n- **Umowy deweloperskie** — pelna obsluga zgodna z nowa ustawa deweloperska\n- **Umowy rezerwacyjne** — zabezpieczenie wybranego lokalu\n- **Umowy przeniesienia wlasnosci** — finalizacja transakcji po odbiorze lokalu\n- **Zmiany do umow** — aneksy, cesje praw z umowy deweloperskiej\n\nJako notariusz dbamy o:\n- Zgodnosc umowy z ustawa deweloperska\n- Wpis roszczenia nabywcy do KW (ochrona przed sprzedaza lokalu innemu nabywcy)\n- Weryfikacje prospektu informacyjnego dewelopera\n- Ochrone srodkow nabywcy na rachunku powierniczym" } },
+    { "slice_type": "service_process", "primary": {} },
+    { "slice_type": "service_pricing", "primary": {} },
+    { "slice_type": "service_related", "primary": {} },
+    { "slice_type": "cta_section", "primary": { "title": "Kupujesz mieszkanie od dewelopera?", "description": "Skontaktuj sie — zapewnimy bezpieczna obsluge calej transakcji.", "primary_button_text": "Umow wizyte", "primary_button_link": { "url": "/kontakt" } } }
+  ],
+  "metadata": {
+    "metaTitle": "Umowy deweloperskie — Kancelaria Notarialna Wloszczynski",
+    "metaDescription": "Obsluga umow deweloperskich, przeniesienia wlasnosci lokali, umow rezerwacyjnych. Zgodnosc z nowa ustawa deweloperska. Kancelaria Notarialna Wloszczynski.",
+    "metaImage": "", "ogImage": "", "robots": "", "keywords": "", "canonicalUrl": ""
+  },
+  "parentPath": "/uslugi"
+}

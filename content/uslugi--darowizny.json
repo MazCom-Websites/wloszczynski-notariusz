@@ -1,0 +1,36 @@
+{
+  "title": "Darowizny",
+  "slug": "darowizny",
+  "publishedAt": "2026-03-20T00:00:00.000Z",
+  "status": "published",
+  "name": "Darowizny",
+  "shortDescription": "Umowy darowizny nieruchomosci, praw majatkowych, udzialow w spolkach i srodkow pienieznych w formie aktu notarialnego.",
+  "icon": "Gift",
+  "category": "Czynnosci notarialne",
+  "processSteps": [
+    { "title": "Konsultacja", "description": "Omowienie przedmiotu darowizny, relacji miedzy stronami i konsekwencji podatkowych." },
+    { "title": "Przygotowanie dokumentow", "description": "Kompletowanie dokumentow: odpis KW, zaswiadczenia, wyceny." },
+    { "title": "Sporzadzenie aktu", "description": "Przygotowanie umowy darowizny w formie aktu notarialnego." },
+    { "title": "Podpisanie i zgloszenie", "description": "Zlozenie podpisow, zlozenie wnioskow KW i zgloszenie do urzedu skarbowego (SD-Z2)." }
+  ],
+  "pricingVariants": [
+    { "name": "Darowizna — wartosc do 10 000 zl", "price": "310", "description": "Taksa notarialna + VAT" },
+    { "name": "Darowizna — wartosc do 60 000 zl", "price": "1010", "description": "Taksa notarialna + VAT" },
+    { "name": "Darowizna — wartosc do 1 000 000 zl", "price": "4770", "description": "Taksa notarialna + VAT" }
+  ],
+  "relatedServices": ["akty-notarialne", "umowy-sprzedazy-nieruchomosci", "testamenty"],
+  "slices": [
+    { "slice_type": "service_hero", "primary": {} },
+    { "slice_type": "service_description", "primary": { "content": "Darowizna to nieodplatne przekazanie majatku obdarowanemu. Umowa darowizny nieruchomosci wymaga formy aktu notarialnego. W przypadku darowizny ruchomosci forma notarialna nie jest wymagana, ale czesto zalecana.\n\nW kancelarii obslugujemy darowizny:\n- Nieruchomosci (mieszkan, domow, dzialek)\n- Udzialow i akcji w spolkach\n- Srodkow pienieznych (z poswiadczeniem)\n- Praw majatkowych\n\nWazne aspekty podatkowe:\n- Darowizny w grupie 0 (malzonek, dzieci, rodzice, rodzenstwo, dziadkowie, wnuki) — zwolnienie z podatku przy zgloszeniu do US w ciagu 6 miesiecy\n- Darowizny w grupie I, II, III — opodatkowane wg stawek 3-20%\n- Notariusz sklada zgloszenie podatkowe SD-3 w imieniu stron" } },
+    { "slice_type": "service_process", "primary": {} },
+    { "slice_type": "service_pricing", "primary": {} },
+    { "slice_type": "service_related", "primary": {} },
+    { "slice_type": "cta_section", "primary": { "title": "Planujesz darowizne?", "description": "Pomozemy Ci przygotowac umowe darowizny i doradzamy w kwestiach podatkowych.", "primary_button_text": "Umow wizyte", "primary_button_link": { "url": "/kontakt" } } }
+  ],
+  "metadata": {
+    "metaTitle": "Darowizny — Kancelaria Notarialna Wloszczynski",
+    "metaDescription": "Umowy darowizny nieruchomosci, udzialow, srodkow pienieznych. Doradztwo podatkowe, zgloszenie SD-Z2. Kancelaria Notarialna Wloszczynski.",
+    "metaImage": "", "ogImage": "", "robots": "", "keywords": "", "canonicalUrl": ""
+  },
+  "parentPath": "/uslugi"
+}

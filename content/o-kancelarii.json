@@ -1,0 +1,64 @@
+{
+  "title": "O kancelarii",
+  "status": "published",
+  "publishedAt": "2026-03-20T00:00:00.000Z",
+  "description": "Informacje o Kancelarii Notarialnej Wloszczynski",
+  "path": "/o-kancelarii",
+  "slices": [
+    {
+      "slice_type": "split_reveal_hero",
+      "primary": {
+        "title": "O kancelarii",
+        "subtitle": "Kancelaria Notarialna Wloszczynski dziala nieprzerwanie od ponad 20 lat, swiadczac kompleksowe uslugi notarialne na najwyzszym poziomie.",
+        "cta_text": "Skontaktuj sie",
+        "cta_link": { "url": "/kontakt" }
+      }
+    },
+    {
+      "slice_type": "text_content",
+      "primary": {
+        "title": "Nasza misja",
+        "content": "Kancelaria Notarialna Wloszczynski zostala zalozona z misja zapewnienia klientom profesjonalnej, rzetelnej i dyskretnej obslugi notarialnej. Wierzymy, ze kazda czynnosc notarialna — niezaleznie od jej skali — zasluguje na najwyzsza starannosc i pelne zaangazowanie.\n\nNasz notariusz posiada wieloletnie doswiadczenie w obslugiwaniu zarowno klientow indywidualnych, jak i podmiotow gospodarczych. Specjalizujemy sie w obslugzie transakcji nieruchomosciowych, prawie spolkowym i spadkowym.\n\nGwarantujemy:\n- Pelna poufnosc i tajemnice notarialna\n- Rzetelne i zrozumiale wyjasnienie kazdej czynnosci\n- Elastyczne terminy — rowniez poza godzinami pracy\n- Konkurencyjne ceny zgodne z taksa notarialna"
+      }
+    },
+    {
+      "slice_type": "animated_counter_bar",
+      "primary": {
+        "background": "light",
+        "counters": [
+          { "value": 20, "suffix": "+", "label": "Lat doswiadczenia" },
+          { "value": 5000, "suffix": "+", "label": "Aktow notarialnych" },
+          { "value": 2000, "suffix": "+", "label": "Transakcji nieruchomosci" },
+          { "value": 100, "suffix": "%", "label": "Zadowolonych klientow" }
+        ]
+      }
+    },
+    {
+      "slice_type": "numbered_features",
+      "primary": {
+        "title": "Nasze wartosci",
+        "features": [
+          { "title": "Rzetelnosc", "description": "Kazda czynnosc wykonujemy z najwyzsza starannoscia, zgodnie z przepisami prawa i zasadami etyki zawodowej." },
+          { "title": "Dyskrecja", "description": "Tajemnica notarialna jest fundamentem naszej pracy. Wszystkie powierzone nam informacje sa scisle chronione." },
+          { "title": "Dostepnosc", "description": "Dbamy o wygode klientow — oferujemy elastyczne terminy, zrozumiale wyjasnienia i pomoc na kazdym etapie." },
+          { "title": "Profesjonalizm", "description": "Stale podnosimy kwalifikacje i sledzymy zmiany w przepisach, aby zapewnic najwyzsza jakosc uslug." }
+        ]
+      }
+    },
+    {
+      "slice_type": "glow_cta",
+      "primary": {
+        "title": "Zapraszamy do wspolpracy",
+        "description": "Skontaktuj sie z nami — chetnie odpowiemy na pytania i umowimy wizyte.",
+        "cta_text": "Kontakt",
+        "cta_link": { "url": "/kontakt" },
+        "glow_color": "#253d7f"
+      }
+    }
+  ],
+  "metadata": {
+    "metaTitle": "O kancelarii — Kancelaria Notarialna Wloszczynski",
+    "metaDescription": "Poznaj Kancelarie Notarialna Wloszczynski. Ponad 20 lat doswiadczenia, tysiace aktow notarialnych. Rzetelnosc, dyskrecja, profesjonalizm.",
+    "metaImage": "", "ogImage": "", "robots": "", "keywords": "", "canonicalUrl": ""
+  }
+}

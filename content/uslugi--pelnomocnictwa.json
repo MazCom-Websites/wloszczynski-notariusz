@@ -1,0 +1,36 @@
+{
+  "title": "Pelnomocnictwa",
+  "slug": "pelnomocnictwa",
+  "publishedAt": "2026-03-20T00:00:00.000Z",
+  "status": "published",
+  "name": "Pelnomocnictwa",
+  "shortDescription": "Udzielanie pelnomocnictw w formie aktu notarialnego — ogolnych, szczegolnych, do poszczegolnych czynnosci prawnych.",
+  "icon": "UserCheck",
+  "category": "Czynnosci notarialne",
+  "processSteps": [
+    { "title": "Ustalenie zakresu", "description": "Okreslenie zakresu pelnomocnictwa — czy ma byc ogolne, rodzajowe czy do konkretnej czynnosci." },
+    { "title": "Identyfikacja stron", "description": "Weryfikacja tozsamosci mocodawcy, ustalenie danych pelnomocnika." },
+    { "title": "Sporzadzenie dokumentu", "description": "Przygotowanie pelnomocnictwa w formie aktu notarialnego." },
+    { "title": "Podpisanie", "description": "Odczytanie tresci, zlozenie podpisu przez mocodawce w obecnosci notariusza." }
+  ],
+  "pricingVariants": [
+    { "name": "Pelnomocnictwo do jednej czynnosci", "price": "30", "description": "Np. do sprzedazy konkretnej nieruchomosci" },
+    { "name": "Pelnomocnictwo — wiecej niz jedna czynnosc", "price": "100", "description": "Pelnomocnictwo rodzajowe lub ogolne" },
+    { "name": "Odwolanie pelnomocnictwa", "price": "30", "description": "Akt odwolania udzielonego pelnomocnictwa" }
+  ],
+  "relatedServices": ["akty-notarialne", "poswiadczenia"],
+  "slices": [
+    { "slice_type": "service_hero", "primary": {} },
+    { "slice_type": "service_description", "primary": { "content": "Pelnomocnictwo notarialne upowaZnia wskazana osobe do dzialania w imieniu mocodawcy. Forma aktu notarialnego jest wymagana, gdy sama czynnosc prawna wymaga takiej formy (np. sprzedaz nieruchomosci).\n\nRodzaje pelnomocnictw:\n- **Pelnomocnictwo ogolne** — upowaZnia do czynnosci zwyklego zarzadu\n- **Pelnomocnictwo rodzajowe** — do okreslonych rodzajow czynnosci\n- **Pelnomocnictwo szczegolne** — do jednej, konkretnej czynnosci prawnej\n\nPelnomocnictwo notarialne jest szczegolnie przydatne gdy:\n- Nie mozesz osobiscie stawic sie przy podpisywaniu umowy\n- Przebywasz za granica i potrzebujesz reprezentacji w Polsce\n- Chcesz upowaZnic zaufana osobe do zarzadzania majatkiem" } },
+    { "slice_type": "service_process", "primary": {} },
+    { "slice_type": "service_pricing", "primary": {} },
+    { "slice_type": "service_related", "primary": {} },
+    { "slice_type": "cta_section", "primary": { "title": "Potrzebujesz pelnomocnictwa?", "description": "Skontaktuj sie — przygotujemy pelnomocnictwo dostosowane do Twoich potrzeb.", "primary_button_text": "Umow wizyte", "primary_button_link": { "url": "/kontakt" } } }
+  ],
+  "metadata": {
+    "metaTitle": "Pelnomocnictwa notarialne — Kancelaria Notarialna Wloszczynski",
+    "metaDescription": "Udzielanie pelnomocnictw notarialnych: ogolnych, rodzajowych, szczegolnych. Szybka realizacja, profesjonalne doradztwo. Kancelaria Notarialna Wloszczynski.",
+    "metaImage": "", "ogImage": "", "robots": "", "keywords": "", "canonicalUrl": ""
+  },
+  "parentPath": "/uslugi"
+}

@@ -1,0 +1,79 @@
+{
+  "title": "Kontakt",
+  "status": "published",
+  "publishedAt": "2026-03-20T00:00:00.000Z",
+  "description": "Dane kontaktowe kancelarii notarialnej",
+  "path": "/kontakt",
+  "slices": [
+    {
+      "slice_type": "hero_centered",
+      "primary": {
+        "title": "Kontakt",
+        "description": "Zapraszamy do kontaktu. Chetnie odpowiemy na pytania i umowimy wizyte w dogodnym terminie."
+      }
+    },
+    {
+      "slice_type": "contact_cards",
+      "primary": {
+        "title": "Jak sie z nami skontaktowac",
+        "methods": [
+          {
+            "title": "Telefon",
+            "description": "Dzwon w godzinach pracy kancelarii",
+            "icon": "Phone",
+            "value": "+48 XXX XXX XXX",
+            "link": "tel:+48XXXXXXXXX"
+          },
+          {
+            "title": "Email",
+            "description": "Odpowiadamy w ciagu 24 godzin",
+            "icon": "Mail",
+            "value": "kancelaria@wloszczynski-notariusz.pl",
+            "link": "mailto:kancelaria@wloszczynski-notariusz.pl"
+          },
+          {
+            "title": "Adres",
+            "description": "Zapraszamy do kancelarii",
+            "icon": "MapPin",
+            "value": "ul. Przykladowa 10, 00-000 Miasto",
+            "link": ""
+          },
+          {
+            "title": "Godziny otwarcia",
+            "description": "Poniedzialek — Piatek",
+            "icon": "Clock",
+            "value": "9:00 — 17:00",
+            "link": ""
+          }
+        ]
+      }
+    },
+    {
+      "slice_type": "searchable_faq",
+      "primary": {
+        "title": "Czeste pytania przed wizyta",
+        "faqs": [
+          { "question": "Czy musze sie wczesniej umawiac?", "answer": "Tak, zalecamy wczesniejsze umowienie wizyty telefonicznie lub mailowo. Pozwala to na odpowiednie przygotowanie dokumentow i zapewnienie komfortowej obslugi.", "category": "Wizyta" },
+          { "question": "Jak dlugo trwa typowa czynnosc notarialna?", "answer": "Proste czynnosci (poswiadczenie podpisu) trwaja 15-30 minut. Akty notarialne dotyczace nieruchomosci — zazwyczaj 1-2 godziny.", "category": "Wizyta" },
+          { "question": "Czy moge zaplacic karta?", "answer": "Tak, akceptujemy platnosci karta, gotowka oraz przelewem bankowym.", "category": "Platnosci" },
+          { "question": "Czy moge przyjsc z wlasnym projektem umowy?", "answer": "Tak, chetnie zapoznamy sie z Panstwa projektem. Notariusz zweryfikuje tresc pod katem zgodnosci z prawem i zaproponuje ewentualne poprawki.", "category": "Dokumenty" }
+        ]
+      }
+    },
+    {
+      "slice_type": "glow_cta",
+      "primary": {
+        "title": "Umow wizyte juz dzis",
+        "description": "Zadzwon lub napisz — ustalimy dogodny termin spotkania.",
+        "cta_text": "Zadzwon teraz",
+        "cta_link": { "url": "tel:+48XXXXXXXXX" },
+        "glow_color": "#253d7f"
+      }
+    }
+  ],
+  "metadata": {
+    "metaTitle": "Kontakt — Kancelaria Notarialna Wloszczynski",
+    "metaDescription": "Skontaktuj sie z Kancelaria Notarialna Wloszczynski. Telefon, email, adres, godziny otwarcia. Umow wizyte u notariusza.",
+    "metaImage": "", "ogImage": "", "robots": "", "keywords": "", "canonicalUrl": ""
+  }
+}

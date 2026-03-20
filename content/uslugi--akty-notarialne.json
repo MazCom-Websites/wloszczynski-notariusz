@@ -1,0 +1,39 @@
+{
+  "title": "Akty notarialne",
+  "slug": "akty-notarialne",
+  "publishedAt": "2026-03-20T00:00:00.000Z",
+  "status": "published",
+  "name": "Akty notarialne",
+  "shortDescription": "Sporzadzanie aktow notarialnych obejmujacych umowy sprzedazy, darowizny, zamiany, dzialu spadku, zniesienia wspolwlasnosci i inne czynnosci prawne.",
+  "icon": "FileText",
+  "category": "Czynnosci notarialne",
+  "processSteps": [
+    { "title": "Konsultacja", "description": "Omowienie sprawy, ustalenie zakresu czynnosci i wymaganych dokumentow." },
+    { "title": "Przygotowanie dokumentow", "description": "Kompletowanie niezbednych dokumentow: odpisy z KW, wypisy z rejestrow, zaswiadczenia." },
+    { "title": "Projekt aktu", "description": "Sporzadzenie projektu aktu notarialnego i przeslanie do weryfikacji przez strony." },
+    { "title": "Podpisanie aktu", "description": "Odczytanie aktu, wyjasnienie tresci, zlozenie podpisow przez strony i notariusza." },
+    { "title": "Zlozenie wnioskow", "description": "Zlozenie wnioskow wieczystoksiegowych i podatkowych w imieniu stron." }
+  ],
+  "pricingVariants": [
+    { "name": "Akt notarialny — wartosc do 3 000 zl", "price": "100", "description": "Taksa notarialna zgodna z rozporzadzeniem" },
+    { "name": "Akt notarialny — wartosc do 10 000 zl", "price": "310", "description": "Taksa notarialna zgodna z rozporzadzeniem" },
+    { "name": "Akt notarialny — wartosc do 30 000 zl", "price": "620", "description": "Taksa notarialna zgodna z rozporzadzeniem" },
+    { "name": "Akt notarialny — wartosc do 60 000 zl", "price": "1010", "description": "Taksa notarialna zgodna z rozporzadzeniem" },
+    { "name": "Akt notarialny — wartosc do 1 000 000 zl", "price": "4770", "description": "Taksa notarialna zgodna z rozporzadzeniem" }
+  ],
+  "relatedServices": ["poswiadczenia", "pelnomocnictwa", "umowy-sprzedazy-nieruchomosci"],
+  "slices": [
+    { "slice_type": "service_hero", "primary": {} },
+    { "slice_type": "service_description", "primary": { "content": "Akt notarialny to dokument urzedowy sporzadzany przez notariusza, potwierdzajacy dokonanie okreslonej czynnosci prawnej. Forma aktu notarialnego jest wymagana przez prawo m.in. dla umow przenoszacych wlasnosc nieruchomosci, umow spolki komandytowej czy testamentow.\n\nW naszej kancelarii sporzadzamy akty notarialne obejmujace:\n- Umowy sprzedazy nieruchomosci (mieszkan, domow, dzialek, lokali uzytkowych)\n- Umowy darowizny\n- Umowy zamiany\n- Umowy dzialu spadku\n- Umowy zniesienia wspolwlasnosci\n- Umowy majatkowe malzenskie\n- Umowy spolek\n- Oswiadczenia o poddaniu sie egzekucji\n- Protokoly zgromadzen wspolnikow i walnych zgromadzen\n\nKazdy akt notarialny sporzadzamy z najwyzsza starannoscia, dbajac o zgodnosc z obowiazujacym prawem i interesy wszystkich stron." } },
+    { "slice_type": "service_process", "primary": {} },
+    { "slice_type": "service_pricing", "primary": {} },
+    { "slice_type": "service_related", "primary": {} },
+    { "slice_type": "cta_section", "primary": { "title": "Potrzebujesz aktu notarialnego?", "description": "Skontaktuj sie z nami — ustalimy termin i pomozemy przygotowac dokumenty.", "primary_button_text": "Umow wizyte", "primary_button_link": { "url": "/kontakt" } } }
+  ],
+  "metadata": {
+    "metaTitle": "Akty notarialne — Kancelaria Notarialna Wloszczynski",
+    "metaDescription": "Sporzadzanie aktow notarialnych: umowy sprzedazy, darowizny, zamiany, dzialu spadku. Profesjonalna obsluga, taksa zgodna z rozporzadzeniem.",
+    "metaImage": "", "ogImage": "", "robots": "", "keywords": "", "canonicalUrl": ""
+  },
+  "parentPath": "/uslugi"
+}

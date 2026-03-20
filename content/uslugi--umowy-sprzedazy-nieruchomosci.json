@@ -1,0 +1,38 @@
+{
+  "title": "Umowy sprzedazy nieruchomosci",
+  "slug": "umowy-sprzedazy-nieruchomosci",
+  "publishedAt": "2026-03-20T00:00:00.000Z",
+  "status": "published",
+  "name": "Umowy sprzedazy nieruchomosci",
+  "shortDescription": "Kompleksowa obsluga transakcji nieruchomosciowych — sprzedaz, kupno, zamiana mieszkan, domow, dzialek i lokali uzytkowych.",
+  "icon": "Building2",
+  "category": "Nieruchomosci",
+  "processSteps": [
+    { "title": "Analiza dokumentow", "description": "Weryfikacja stanu prawnego nieruchomosci, sprawdzenie KW, zaswiadczen i map." },
+    { "title": "Umowa przedwstepna", "description": "Opcjonalne sporzadzenie umowy przedwstepnej z zadatkiem lub zaliczka." },
+    { "title": "Kompletowanie dokumentow", "description": "Zebranie wymaganych zaswiadczen: ze spoldzielni, z urzedu, o braku zaleglosci podatkowych." },
+    { "title": "Akt notarialny", "description": "Sporzadzenie i podpisanie umowy sprzedazy w formie aktu notarialnego." },
+    { "title": "Wnioski i rozliczenia", "description": "Zlozenie wnioskow o wpis do KW, rozliczenie podatku PCC, wydanie wypisow." }
+  ],
+  "pricingVariants": [
+    { "name": "Wartosc do 60 000 zl", "price": "1010", "description": "Taksa notarialna + VAT" },
+    { "name": "Wartosc do 1 000 000 zl", "price": "4770", "description": "Taksa notarialna + VAT" },
+    { "name": "Wartosc do 2 000 000 zl", "price": "6770", "description": "Taksa notarialna + VAT" },
+    { "name": "Umowa przedwstepna", "price": "50%", "description": "50% stawki wlasciwej umowy" }
+  ],
+  "relatedServices": ["akty-notarialne", "darowizny", "sluzebnosci-i-uzytkowanie"],
+  "slices": [
+    { "slice_type": "service_hero", "primary": {} },
+    { "slice_type": "service_description", "primary": { "content": "Umowa sprzedazy nieruchomosci wymaga formy aktu notarialnego pod rygorem niewaznosci. Nasza kancelaria zapewnia kompleksowa obsluge calego procesu — od analizy dokumentow po zlozenie wnioskow wieczystoksiegowych.\n\nObslugujemy transakcje dotyczace:\n- Mieszkan (wlasnosc, spoldzielcze wlasnosciowe prawo)\n- Domow jednorodzinnych i wielorodzinnych\n- Dzialek budowlanych, rolnych i rekreacyjnych\n- Lokali uzytkowych i komercyjnych\n- Garazypodziemnych i miejsc parkingowych\n\nDodatkowo doradzamy w kwestiach:\n- Podatku PCC (2% od wartosci nieruchomosci)\n- Oplat sadowych za wpis do ksiegi wieczystej\n- Zwolnien podatkowych (np. przy pierwszym mieszkaniu)" } },
+    { "slice_type": "service_process", "primary": {} },
+    { "slice_type": "service_pricing", "primary": {} },
+    { "slice_type": "service_related", "primary": {} },
+    { "slice_type": "cta_section", "primary": { "title": "Planujesz transakcje nieruchomosciowa?", "description": "Skontaktuj sie — pomozemy przygotowac i przeprowadzic cala transakcje.", "primary_button_text": "Umow wizyte", "primary_button_link": { "url": "/kontakt" } } }
+  ],
+  "metadata": {
+    "metaTitle": "Umowy sprzedazy nieruchomosci — Kancelaria Notarialna Wloszczynski",
+    "metaDescription": "Obsluga transakcji nieruchomosciowych: sprzedaz, kupno, zamiana. Umowy przedwstepne, akty notarialne, wnioski KW. Kancelaria Notarialna Wloszczynski.",
+    "metaImage": "", "ogImage": "", "robots": "", "keywords": "", "canonicalUrl": ""
+  },
+  "parentPath": "/uslugi"
+}

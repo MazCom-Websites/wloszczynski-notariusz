@@ -1,0 +1,36 @@
+{
+  "title": "Depozyt notarialny",
+  "slug": "depozyt-notarialny",
+  "publishedAt": "2026-03-20T00:00:00.000Z",
+  "status": "published",
+  "name": "Depozyt notarialny",
+  "shortDescription": "Przyjmowanie na przechowanie pieniedzy, papierow wartosciowych i dokumentow w celu wydania ich wskazanej osobie.",
+  "icon": "Vault",
+  "category": "Czynnosci notarialne",
+  "processSteps": [
+    { "title": "Ustalenie warunkow", "description": "Okreslenie przedmiotu depozytu, warunkow wydania i osob uprawnionych." },
+    { "title": "Protokol przyjecia", "description": "Sporzadzenie protokolu przyjecia depozytu z dokladnym opisem przedmiotu." },
+    { "title": "Przechowanie", "description": "Bezpieczne przechowywanie depozytu na rachunku depozytowym kancelarii." },
+    { "title": "Wydanie", "description": "Wydanie depozytu osobie uprawnionej po spelnieniu warunkow." }
+  ],
+  "pricingVariants": [
+    { "name": "Depozyt pieniezny — do 3 000 zl", "price": "100", "description": "Polowa stawki maksymalnej" },
+    { "name": "Depozyt pieniezny — do 10 000 zl", "price": "155", "description": "Polowa stawki maksymalnej" },
+    { "name": "Przyjecie dokumentu", "price": "50", "description": "Za kazdy dokument" }
+  ],
+  "relatedServices": ["akty-notarialne", "umowy-sprzedazy-nieruchomosci"],
+  "slices": [
+    { "slice_type": "service_hero", "primary": {} },
+    { "slice_type": "service_description", "primary": { "content": "Depozyt notarialny to bezpieczna forma przechowywania pieniedzy, papierow wartosciowych lub dokumentow przez notariusza. Jest czesto wykorzystywany przy transakcjach nieruchomosciowych jako gwarancja bezpieczenstwa obu stron.\n\nZastosowania depozytu notarialnego:\n- **Transakcje nieruchomosciowe** — kupujacy wplaca cene na rachunek depozytowy, a notariusz przelewa ja sprzedajacemu po podpisaniu aktu\n- **Zabezpieczenie dokumentow** — przechowanie oryginalow waznych dokumentow\n- **Rozliczenia umowne** — gwarancja wykonania zobowiazan\n\nPieniadze skladane do depozytu trafiaja na specjalny rachunek bankowy kancelarii, oddzielony od srodkow wlasnych notariusza. Sa w pelni bezpieczne i ubezpieczone." } },
+    { "slice_type": "service_process", "primary": {} },
+    { "slice_type": "service_pricing", "primary": {} },
+    { "slice_type": "service_related", "primary": {} },
+    { "slice_type": "cta_section", "primary": { "title": "Potrzebujesz depozytu notarialnego?", "description": "Skontaktuj sie — zabezpieczymy Twoja transakcje.", "primary_button_text": "Umow wizyte", "primary_button_link": { "url": "/kontakt" } } }
+  ],
+  "metadata": {
+    "metaTitle": "Depozyt notarialny — Kancelaria Notarialna Wloszczynski",
+    "metaDescription": "Depozyt notarialny: bezpieczne przechowywanie pieniedzy i dokumentow. Zabezpieczenie transakcji nieruchomosciowych. Kancelaria Notarialna Wloszczynski.",
+    "metaImage": "", "ogImage": "", "robots": "", "keywords": "", "canonicalUrl": ""
+  },
+  "parentPath": "/uslugi"
+}
